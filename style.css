@@ -328,6 +328,9 @@ font-weight: 200;
 #footnote br + br {
 margin-top: 1.05rem;
 }
+#copyright br + br {
+margin-top: 1.05rem;
+}
 hr {
 width: 100%;
 position: relative;
